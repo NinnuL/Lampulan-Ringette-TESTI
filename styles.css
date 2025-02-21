@@ -2,29 +2,41 @@
 <html>
 
 <style>
+
 h1 {
-  color: black
-  font-family: verdana;
-  font-size: 4.5rem; 
+    background-color: blue; 
+  font-size: 3.5rem; 
   font-decoration: underline; 
   font-weight: bold;
+  margin; 0px 0px 0px 0px; 
+  padding: 1em;
 }
 
 h2 {
-font-size: 4.0rem;
+font-size: 2.0rem;
 font-weight: bold; 
 }
 
 h3{
-font-size: 3.5rem;
+font-size: 2.0rem;
 font-weight: bold;
+}
+
+h4 {
+    font-size: 1.5rem;
+    font
 
 }
 
+body {
+    font-family: sans-serif;
+    }
 
 p {
   color: black
-  font-family: courier;
   font-size: 2.4rem; 
+
 }
+
+
 </style>
