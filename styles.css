@@ -77,7 +77,10 @@ iframe {
   
   width: 800px;
   height: 700px; 
+}
 
+img {
+float:bottom; 
 
 }
 </style>
