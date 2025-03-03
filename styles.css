@@ -44,7 +44,7 @@ background-color: #280291;
 
 
 h2 {
-font-size: 2.0rem;
+font-size: 2.5rem;
 font-weight: bold; 
 text-decoration: underline; 
 }
@@ -57,15 +57,27 @@ text-decoration: underline;
 
 h4 {
     font-size: 1.5rem;
-    font
+    text-decoration: underline; 
 
 }
 
 p {
-  color: black
-  font-size: 1.5.4rem; 
+  font-size: 1.5rem; 
+font-weight: bold; 
 
 }
 
+li {
+font-size: 1.5rem;
+font-weight: bold; 
+}
 
+
+iframe { 
+  
+  width: 800px;
+  height: 700px; 
+
+
+}
 </style>
